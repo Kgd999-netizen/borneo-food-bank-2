@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Borneo Food Bank",
+    "slug": "borneo-food-bank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.borneofoodbank.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.borneofoodbank.app"
+    }
+  }
+}
